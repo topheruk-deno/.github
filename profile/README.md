@@ -13,5 +13,5 @@ repositories, organisations & gists
 
 | Repository Name                                             | Description                                        | Keywords              |
 | :---------------------------------------------------------- | :------------------------------------------------- | :-------------------- |
-| [util](https://github.com/topheruk-deno/util)               | Common functions                                   | `utility`             |
-| [http-server](https://github.com/topheruk-deno/http-server) | Examples using my implementation of my HTTP server | `http`, `web sockets` |
+| [util](https://github.com/hyphendeno/predule)               | Common functions                                   | `predule`             |
+| [http-server](https://github.com/hyphendeno/http-server) | Examples using my implementation of my HTTP server | `http`, `web sockets` |

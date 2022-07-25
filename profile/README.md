@@ -11,7 +11,18 @@ repositories, organisations & gists
 
 ## Repositories
 
-| Repository Name                                             | Description                                        | Keywords              |
-| :---------------------------------------------------------- | :------------------------------------------------- | :-------------------- |
-| [prelude](https://github.com/hyphendeno/predule)               | Common functions                                   | `predule`             |
+| Repository Name                                          | Description                                        | Keywords              |
+| :------------------------------------------------------- | :------------------------------------------------- | :-------------------- |
+| [prelude](https://github.com/hyphendeno/predule)         | Common functions                                   | `predule`             |
 | [http-server](https://github.com/hyphendeno/http-server) | Examples using my implementation of my HTTP server | `http`, `web sockets` |
+
+## Deno Tips
+
+List of packages that utilise
+[tagged template literals](https://github.com/kay-is/awesome-tagged-templates)
+as part of their API
+
+### Building Web Applications using [fresh🍋](https://fresh.deno.dev/)
+
+Creating a new project is as easy as:
+`$ deno run -A -r https://fresh.deno.dev [<dir_name>]`

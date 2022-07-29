@@ -11,10 +11,11 @@ repositories, organisations & gists
 
 ## Repositories
 
-| Repository Name                                          | Description                                        | Keywords              |
-| :------------------------------------------------------- | :------------------------------------------------- | :-------------------- |
-| [prelude](https://github.com/hyphendeno/predule)         | Common functions                                   | `predule`             |
-| [http-server](https://github.com/hyphendeno/http-server) | Examples using my implementation of my HTTP server | `http`, `web sockets` |
+| Repository Name                                              | Description                                        | Keywords                          |
+| :----------------------------------------------------------- | :------------------------------------------------- | :-------------------------------- |
+| [prelude](https://github.com/hyphendeno/prelude)             | Common functions                                   | `predule`                         |
+| [http-server](https://github.com/hyphendeno/http-server)     | Examples using my implementation of my HTTP server | `http`, `web sockets`             |
+| [audio-sampler](https://github.com/hyphendeno/audio-sampler) | Audio Sampler using Deno Fresh Framework           | `web audio`, `fresh`, `indexeddb` |
 
 ## Deno Tips
 
@@ -22,7 +23,19 @@ List of packages that utilise
 [tagged template literals](https://github.com/kay-is/awesome-tagged-templates)
 as part of their API
 
+TypeScript
+[Utilities](https://www.typescriptlang.org/docs/handbook/utility-types.html)
+
 ### Building Web Applications using [fresh🍋](https://fresh.deno.dev/)
 
 Creating a new project is as easy as:
 `$ deno run -A -r https://fresh.deno.dev [<dir_name>]`
+
+### Using [tailwind🌬️](https://tailwindcss.com/docs/installation)
+
+Styling with tailwind seems to be the current trend with React projects. Should
+hopefully be getting better at learning the docs
+
+## Useful Preact Links
+
+- [Fuzzy Search](https://www.lloydatkinson.net/posts/2022/writing-a-fuzzy-search-component-with-preact-and-fuse-for-astro/)
